@@ -1,0 +1,45 @@
+.main{
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+body{
+    background-color: black;
+}
+.iron{
+    border: 5px solid red;
+    width: 300px;
+    height: 300px;
+    margin-top: -10px;
+    float: left;
+}
+p{
+    padding: 0px 5px 0px 5px;
+    color: white;
+}
+.Thorreg{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border: 5px solid whitesmoke;
+}
+.marvel{
+    width: 300px;
+    height: 100px;
+}
+.hello{
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 5px solid lightblue;
+}
+.special{
+    text-align: center;
+    font-size: 20px;
+    background-color: red;
+    color: hotpink;
+}
+.love{
+    margin-left: 250px;
+}
